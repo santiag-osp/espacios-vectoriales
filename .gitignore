@@ -1,0 +1,10 @@
+./
+.git/
+.idea/
+Lib/
+__pycache__/
+../
+Include/
+Scripts/
+pyvenv.cfg
+
